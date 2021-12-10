@@ -19,7 +19,7 @@
 
 ## 用法
 1. 到幣安 App 或是網頁中找到 API 管理，並創建 API KEY。（請自行 Google 作法）
-2. 將此 juypter notebook 檔案下載到本機
+2. 將程式碼 [juypter notebook 檔案](https://github.com/mickyp/binance-profit-calculator/raw/main/%5BEmpty%5D_%E5%B9%A3%E5%AE%89%E6%90%8D%E7%9B%8A%E8%A8%88%E7%AE%97%E6%A9%9F_Binance_Profit_Calculator.ipynb)下載或另存新檔到本機
 3. 開啟 [Google Colab](https://colab.research.google.com/)
 4. 選擇 juypter 檔案上傳
 ![image](https://user-images.githubusercontent.com/229322/145533330-d1835d20-678f-4d81-bbe6-915d54436011.png)
